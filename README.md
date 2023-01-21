@@ -1,6 +1,6 @@
 # Athena-KG-RG-Corpus
 
-Athena KG-RG corpus contains 5 different domains: music, movie, tv, and sports. 
+Athena KG-RG corpus contains 4 different domains: music, movie, tv, and sports. 
 This data was generated using templates that contain slots, and the slots were filled
 with entities from WikiData. 
 
